@@ -8,7 +8,7 @@ This is a full-featured text-over-image editor built with **Next.js**, **TypeScr
 🔗 [https://adomate-editor.vercel.app](https://adomate-editor.vercel.app) _(Replace with your actual Vercel link)_
 
 ## 📂 GitHub Repo
-🔗 [https://github.com/your-username/adomate-editor](https://github.com/your-username/adomate-editor)
+🔗 https://github.com/Pranav-pixel-dot/adomate-editor/tree/main
 
 ## ✅ Features
 
