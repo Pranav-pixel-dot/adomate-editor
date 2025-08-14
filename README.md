@@ -37,5 +37,4 @@ npm run dev
 
 
 
-<img width="877" height="875" alt="image" src="https://github.com/user-attachments/assets/4ced96da-8b3a-42a4-ba58-80faa652662c" />
 
