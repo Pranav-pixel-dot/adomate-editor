@@ -43,7 +43,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 This is a full-featured text-over-image editor built with **Next.js**, **TypeScript**, and **Fabric.js**, developed as part of the Adomate Full-Stack Engineer coding challenge.
 
 ## 🌐 Live Demo
-🔗 [https://adomate-editor.vercel.app](https://adomate-editor.vercel.app) _(Replace with your actual Vercel link)_
+🔗 https://adomate-editor.vercel.app/
 
 ## 📂 GitHub Repo
 🔗 https://github.com/Pranav-pixel-dot/adomate-editor
