@@ -12,7 +12,7 @@ const compat = new FlatCompat({
 const eslintConfig = [
   ...compat.extends("next/core-web-vitals", "next/typescript"),
 
-  // ✅ Add this block to override rules
+  // ✅ Add this rule override here
   {
     files: ["**/*.ts", "**/*.tsx"],
     rules: {
